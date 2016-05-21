@@ -1,0 +1,18 @@
+()||<BIN>9</BIN><BGM>BGM_Empty</BGM>：AR小组进入指挥室。+…………
+M4 SOPMOD II()||：（打手势）“室内有人类目标。”
+M4A1()||：……（点头）+（打手势）行动预备，3、2、1……
+()||<BIN>22</BIN><SE1>Explode</SE1><震屏>：……砰！
+M4A1(3)||：那边的人类，举起手来，面对我们！
+？？()||：……
+M4A1(3)||：最后警告，举起手来，否则我们有权开火！
+？？()||：……对我而言，你们可没有这个权力。
+NPC-Kyruger(0)<Speaker>克鲁格</Speaker>||：……唯独对我。
+M4A1(3)<Speaker>M16A1</Speaker>;NPC-Kyruger(0)||<BGM>BGM_Sad</BGM>：……！！+万分抱歉，克鲁格先生！
+M4A1(3);NPC-Kyruger(0)<Speaker>克鲁格</Speaker>||：不要紧，不是你的问题。
+M16(3)<Speaker>M16A1</Speaker>;NPC-Kyruger(0)||：请恕我直言，克鲁格先生。+这和我们接到的任务情报不太一样。+而且，在敌方区域没有佩戴信号识别设备，这是十分危险的。
+M16(3);NPC-Kyruger(0)<Speaker>克鲁格</Speaker>||：但是如果信号无法通过铁血的权限验证，就会更加危险。+看来新的设备还存在缺陷，我应该督促16LAB改进一下。
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>;NPC-Kyruger(0)||：难道您来到这里……就是为了试验新设备？
+SOPII(3);NPC-Kyruger(0)<Speaker>克鲁格</Speaker>||：不只是如此，人形们。+收集一些数据，顺便实践一下而已。
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>;NPC-Kyruger(0)||：可我们是特种作战小组，不是什么安保小队！
+M4A1(3)<Speaker>;NPC-Kyruger(0)||：SOP-II，冷静点！
+M4A1(3);NPC-Kyruger(0)<Speaker>克鲁格</Speaker>||<黑屏1>：……+我依然相信你们，但是没人会保证铁血会侵蚀的目标是谁。+收集完这里的情报，然后是新的工作……+……给你们新的指挥官。

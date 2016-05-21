@@ -1,0 +1,8 @@
+(RightPic-LeftTop)#Feed#^Right^:请选择<color=#ffb400>【人形强化】</color>的指令，准备强化工作。
+(RightPic-LeftTop)#FeedCharacterLabel#^Right^:请点击<color=#ffb400>【选择角色】</color>，来决定哪位人形接受强化。
+(RightPic-LeftBottom)#Items#^none^:选择一名人形，作为强化的基板。
+(RightPic-LeftBottom)#SmallEmptyItem#^Down^:请点击<color=#ffb400>【选择角色】</color>，添加作为素材的人形。
+(RightPic-LeftBottom)#Items2#^none^:请注意，至少要4名人形作为素材，强化效果才能生效。
+(LeftPic-RightBottom)#ButtonConfirm#^Left^:点击<color=#ffb400>【确定】</color>，完成您选定的名单吧。
+(LeftPic-RightTop)#确认强化#^Up^:好啦，查看一下数据，然后就点击<color=#ffb400>【确认强化】</color>指令，开始强化人形吧。
+(RightPic-LeftTop)#Canvas#^none^:<color=#ffb400>【人形强化】</color>的讲解完成了。指挥官，让您的战术人形变得更强大吧。

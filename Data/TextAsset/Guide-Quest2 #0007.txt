@@ -1,0 +1,3 @@
+(RightPic-LeftTop)#MainQuests#^Right^:请进入【主线任务】的清单。
+(LeftPic-RightTop)#Finished#^Down^:点击【领取奖励】，接受总部发来的奖品吧！
+(LeftPic-RightTop)#Canvas#^none^:就是这样，完成任务就能获得物资奖励，指挥官，请加油干吧！

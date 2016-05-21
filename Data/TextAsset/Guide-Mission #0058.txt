@@ -1,0 +1,2 @@
+(LeftPic-RightBottom)#MissionBar(Clone)#^Down^:请点击标牌，选择相应的任务。
+(LeftPic-RightTop)#NormalCombat#^Up^:点击普通作战按钮，开始您的首次出击！

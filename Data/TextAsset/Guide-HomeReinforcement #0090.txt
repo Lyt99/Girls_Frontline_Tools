@@ -1,0 +1,1 @@
+(LeftPic-RightTop)#Reinforce#^Down^:如果有受损的人形，通过维修就能恢复状态了，现在，请先点击<color=#ffb400>【修复】</color>指令。

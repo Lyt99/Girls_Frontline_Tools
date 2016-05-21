@@ -1,0 +1,1 @@
+(LeftPic-RightBottom)#Button立即完成#^Down^:最后，您也可以通过预支【立即完成】当前的训练哦。

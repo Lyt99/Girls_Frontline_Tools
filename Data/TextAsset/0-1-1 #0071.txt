@@ -1,0 +1,13 @@
+()||<BIN>9</BIN><BGM>BGM_Empty</BGM>：一个月前，S09区争端地带……
+M4A1()||：当前时间0559，天气不错。
+M16A1()||：开始吧，M4。
+M4A1()||<黑屏1>：嗯。
+M4A1(0)||<BGM>BGM_Sneak</BGM><BIN>7</BIN><黑屏2>：帕斯卡，这里是AR小组。
+NPC-Persica(0)<Speaker>帕斯卡</Speaker><通讯框>;M4A1(0)||：……嗯，收到了。
+NPC-Persica(0)<通讯框>;M4A1(0)<Speaker>||：已经成功潜入到铁血辖区集合点A，坐标V6J69-HJYRV。无风，视野良好。
+NPC-Persica(0)<Speaker>帕斯卡</Speaker><通讯框>;M4A1(0)||：哦……地图上看，是这里没错。
+NPC-Persica(0)<通讯框>;M4A1(0)<Speaker>||：重复行动目标——搜索所有署名为【莱柯】的履历和研究资料，并发送回16LAB。
+NPC-Persica(0)<Speaker>帕斯卡</Speaker><通讯框>;M4A1(0)||<黑屏1>：嗯嗯，就是这个，拜托了。
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||<BIN>10</BIN><黑屏2>：OK，那……我们从哪开始呢？
+AR15(0)||：先占领一座指挥部，入侵铁血的资料库，获取情报。
+M4A1(0)||：目标是那边的指挥部。+AR小组，行动开始。

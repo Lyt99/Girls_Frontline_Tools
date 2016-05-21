@@ -1,0 +1,6 @@
+(RightPic-LeftBottom)#IOPInProgress#^Down^:您看到左侧“常规人形订单”这一栏吗？请点击<color=#ffb400>【开始】</color>来签写订单吧。
+(LeftPic-RightBottom)#人力百增加按钮 (1)#^Right^:第一次的话，多投入点资源怎么样？
+(LeftPic-RightBottom)#弹药百增加按钮 (1)#^Left^:嗯，弹药也可以多一点呢。
+(LeftPic-RightTop)#口粮百增加按钮 (1)#^Right^:那么，口粮再大方点吧。
+(LeftPic-RightTop)#零件百增加按钮 (1)#^Left^:零件加一点，会有帮助吗？
+(RightPic-LeftTop)#下达订单#^Up^:究竟会匹配出怎样的人形呢？快下订单看看吧！

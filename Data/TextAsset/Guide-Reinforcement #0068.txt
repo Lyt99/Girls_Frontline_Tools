@@ -1,0 +1,3 @@
+(RightPic-LeftTop)#Labels#^Right^:指挥官,请点击<color=#ffb400>【选择角色】</color>指令。
+(RightPic-LeftTop)#Items#^none^:这里会列出所有受损的人形，请选择需要修复的那一位。
+(LeftPic-RightTop)#ButtonYes#^Left^:确认无误之后，就点击<color=#ffb400>【确定】</color>指令吧。

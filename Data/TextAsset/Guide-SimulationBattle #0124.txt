@@ -1,0 +1,2 @@
+(RightPic-LeftBottom)#SimCombatSelection#^Right^:指挥官，【模拟作战】的权限已经向您开放了。
+(RightPic-LeftBottom)#MissionBar3#^Down^:请进入<color=#ffb400>【战斗】</color>指令，我来讲解一下。

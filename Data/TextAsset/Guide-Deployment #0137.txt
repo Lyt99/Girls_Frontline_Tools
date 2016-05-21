@@ -1,0 +1,3 @@
+(RightPic-LeftTop)#88#^Left^:指挥官,请点击<color=#ffb400>【指挥部】</color>。
+(LeftPic-RightBottom)#Deploy#^Up^:点击<color=#ffb400>【部署梯队】</color>来部署您的小队。
+(LeftPic-RightBottom)#Button作战开始高亮#^Up^:请点击<color=#ffb400>【开始作战】</color>，祝您好运！

@@ -1,0 +1,3 @@
+(LeftPic-RightBottom)#GuideArea1#^none^:单方向<color=#ffb400>拖拽</color>作战屏幕可移动镜头，用两个手指则会缩放镜头。
+(RightPic-LeftBottom)#GuideArea2#^none^:<color=#ffb400>拖拽</color>我方人员，可令她在行动范围内移动。
+( -LeftBottom)#GuideArea3#^none^:在战斗中，每名人形都拥有自己的作战技能，且有一定几率自动释放。

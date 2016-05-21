@@ -1,0 +1,4 @@
+(RightPic-LeftBottom)#OperationSelection#^Right^:指挥官,为了保障后勤工作，我们来开展<color=#ffb400>【后勤支援】</color>吧。
+(RightPic-LeftBottom)#ActionSend#^Up^:点击<color=#ffb400>【行动开始】</color>指令，选择执行的梯队。
+(RightPic-LeftTop)#TeamLabelOperation#^Right^:现在，请选择一只梯队。
+(LeftPic-RightBottom)#Start#^Up^:点击【确定】，让梯队执行后勤任务吧。

@@ -1,0 +1,2 @@
+(LeftPic-RightTop)#MissionBar2#^Up^:指挥官，在等待自律作战完成的同时，我们来着手开始下一个任务吧。
+(LeftPic-RightTop)#NormalCombat#^Up^:请点击【普通作战】，准备新的作战训练。

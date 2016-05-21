@@ -1,0 +1,1 @@
+(LeftPic-RightTop)#Factory#^Left^: 为了提高作战效能， 我们需要将多余的零件装载给人形。指挥官，请点击<color=#ffb400>【工厂】</color>指令，开始强化的说明吧。

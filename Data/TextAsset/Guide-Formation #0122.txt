@@ -1,0 +1,2 @@
+(RightPic-LeftBottom)#Labels#^Left^:梯队中还有角色栏在虚位以待，请点击其中一个。
+(LeftPic-RightBottom)#CharacterListLabelHolder(Clone)#^Right^:这里能看到您持有的人形，请选择其中一位。

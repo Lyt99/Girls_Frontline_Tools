@@ -1,0 +1,6 @@
+M4A1(0)||<BIN>7</BIN><BGM>BGM_Sneak</BGM>：呼叫帕斯卡，我们定位了一座安全屋，正在前往。
+NPC-Persica(0)<Speaker>帕斯卡</Speaker><通讯框>;M4A1(0)||：那个地方？明白了，请继续吧。
+NPC-Persica(0)<通讯框>;M4A1(0)<Speaker>||：完毕，继续行动。
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>;M4A1(0)||：快出发吧！美味的铁血在等着我们呢！
+SOPII(0);AR15(2)<Speaker>||：安分点，我们可不是来玩的！
+M16(0)<Speaker>M16A1</Speaker>;AR15(2)||<黑屏1>：保持隐秘，解决掉铁血的侦察部队，开始吧！

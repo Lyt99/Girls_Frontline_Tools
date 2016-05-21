@@ -1,0 +1,22 @@
+M4A1(0)||<BIN>8</BIN><BGM>BGM_Room</BGM>：呼叫帕斯卡，行动顺利，AR小组已抵达3号安全屋。
+NPC-Persica(2)<Speaker>帕斯卡</Speaker><通讯框>;M4A1(0)||：呜喔！莱柯的东西,能查到吗？
+NPC-Persica(2)<通讯框>;M4A1(0)<Speaker>||：已经用探针启动了接口，但是这个操作系统太陈旧……+验证结构无法破解，需要密码才能尽快启动。
+NPC-Persica(0)<Speaker>帕斯卡</Speaker><通讯框>;M4A1(0)||：“90WISHROCK”，再加个“X”，全大写。
+NPC-Persica(0)<通讯框>;M4A1(0)<Speaker>||：……验证成功，正在浏览数据库。
+NPC-Persica(2)<Speaker>帕斯卡</Speaker><通讯框>;M4A1(0)||：好！里面的东西，都拷贝到记忆体，带回来。
+NPC-Persica(2)<通讯框>;M16(0)<Speaker>M16A1</Speaker>||：哦？这次不用无线传输吗？
+NPC-Persica(3)<Speaker>帕斯卡</Speaker><通讯框>;M16(0)||：这个地区使用无线，发送大量连续数据，可能被铁血截获。+这些情报，不能泄露，离开之前，摧毁主机。
+NPC-Persica(3)<通讯框>;M4A1(0)<Speaker>||<黑屏1>：了解，开始拷贝数据，暂时关闭通讯。
+AR15(0)||<黑屏2>：……于是，我们在铁血地盘用铁血的数据库，找一些铁血都不知道的情报？
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：哈哈♪不觉得很有趣吗？+感觉就像在寻宝一样！
+？？()||<BGM>BGM_Empty</BGM><黑屏1>：是啊，多谢你们，宝藏终于得手了。
+AR小组()||<BIN>9</BIN><黑屏2>：……？！
+AR15(2)||<黑屏1>：有人入侵了我们的频道！
+BOSS-8(0)<Speaker>？？</Speaker><通讯框>||<BGM>BGM_Boss</BGM><BIN>8</BIN><黑屏2>：铁血工造，“代理人”，恭候你们的到来。
+M16(2)<Speaker>M16A1</Speaker>||：……呿。+你这家伙，一直等待着这个时机吗？ 
+BOSS-8(0)<Speaker>代理人</Speaker><通讯框>||：这个安全屋里，有“主人”想要的东西。+可惜因为是旧时代的系统，我们也无法破解。
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||：所以……我们正好帮了大忙，是吗？
+BOSS-8(0)<Speaker>代理人</Speaker><通讯框>||：主人说你们会出现，她说过你们一定会来到这里。+只要抓到你们、肢解你们、抽出你们的记忆体，主脑就会得到“答案”。
+AR15(2)||：恶心的家伙……不愧是铁血呢。
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||：铁血的信号已经接近了，现在怎么办！
+M4A1(3)<Speaker>;SOPII(3)||：拷贝还在进行中，只能坚持到它完成了。+各位，准备防御作战！

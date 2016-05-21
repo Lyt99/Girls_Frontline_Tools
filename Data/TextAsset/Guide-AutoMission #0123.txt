@@ -1,0 +1,6 @@
+(LeftPic-RightBottom)#MissionBar(Clone)#^Down^:请选择战役面板。
+(LeftPic-RightTop)#AutoCombat#^Up^:在当前关卡获得了三枚勋章后，就可以执行【自律作战】指令了。
+(LeftPic-RightBottom)#AutoMissionButton#^Right^:不同的自律作战，需要的梯队数量可能也不同哦。
+(RightPic-LeftTop)#TeamLabel2#^Right^:请选择下一个梯队吧。
+(LeftPic-RightBottom)#Start#^Up^:梯队只有达到右上角的作战效能要求，才能出击哦。
+(LeftPic-RightBottom)#AutoCombat_Start#^Up^:确认各项信息无误后，就等待她们的捷报吧！

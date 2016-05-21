@@ -1,0 +1,4 @@
+(RightPic-LeftTop)#Combine#^Right^:请选择<color=#ffb400>【编制扩大】</color>的指令，准备开始扩充编制吧。
+(RightPic-LeftBottom)#CombineMainItem#^Right^:现在请点击<color=#ffb400>【选择角色】</color>，来指定接受扩编的人形吧。
+(RightPic-LeftBottom)#Items#^none^:点击一名人形，请注意，必须超过10级才可以接受第一次扩编哦。
+(LeftPic-RightTop)#确认扩编#^Up^:请点击<color=#ffb400>【确认扩编】</color>指令，扩编会消耗数个相同规格的人形，或者通过拆解3星及以上的人形来获得的<color=#ffb400>【替代核心】</color>。

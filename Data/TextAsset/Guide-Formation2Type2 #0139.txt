@@ -1,0 +1,2 @@
+(RightPic-LeftBottom)#Labels#^Right^:请选择空置栏位
+( -RightBottom)#Items4#^Right^:来选一名用来编队的人形吧。

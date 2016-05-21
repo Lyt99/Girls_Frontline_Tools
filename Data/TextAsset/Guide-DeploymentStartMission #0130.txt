@@ -1,0 +1,5 @@
+(RightPic-LeftTop)#DeploymentFriendlyTeamController#^Left^:点击选择您的小队。
+(RightPic-LeftTop)#ShowTeamInfoEvent#^Right^:再次点击小队，可以查看其详情。
+( -LeftTop)#Close#^Up^:这时可以通过<color=#ffb400>【撤离】</color>来撤出地图。如果小队位于补给点或指挥部，这时也可以补给。不过现在，先点击【取消】继续作战吧。
+(LeftPic-RightBottom)#89#^Down^:再点击敌方据点。
+(LeftPic-RightTop)#全屏按钮#^none^:这个“箱子”据点被标注了异常状况，具体会发生什么，只有到达之后才能弄清呢。
